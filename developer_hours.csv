@@ -1,4 +1,4 @@
 date; hours; comment
 10/10/20; 3; work on duplication and sheet marker, created image scale command
 11/10/20; 4; Add array for plate distributing, change split command to work with multiple line, Add Trim and Extend command in one command
-12/10/20; 2:30; Add label for sheet markers and block direction
+12/10/20; 3:45; Add label for sheet markers and block direction, read source code of dimension for stage 3
