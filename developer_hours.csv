@@ -4,3 +4,4 @@ date; hours; comment
 12/10/20; 3:45; Add label for sheet markers and block direction, read source code of dimension for stage 3
 13/10/20; 4:45; Searching about line recognition with OpenCV, finding Gdal to extract layer from PDF files, adding array and label to FreeCAD commands.
 14/10/20; 1:10; Applying line recognition with OpenCV, does not succeed.
+15/10/20; 1:10; Auto labeling cut pieces.
