@@ -12,3 +12,4 @@ date; hours; comment
 20/10/20; 6:00; Work on options to generate 3D roof from 2D pieces
 21/10/20; 3:20; Working on projection pieces of roof on slope plan
 22/10/20; 2:20; Still working on how to project to plan and investigate for variable angles
+23/10/20; 2:35; Creating function for obtain correct height of all points of each roof pieces
