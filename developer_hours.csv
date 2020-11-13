@@ -32,3 +32,5 @@ date; hours; comment
 9/11/20; 1:20; Finding ways for distinquish between types of edges
 10/11/20; 6:0; Creating algorithm for finding various types of edges
 11/11/20; 1:45; Creating function for distinguish between valley and hip edges, work on creating roof command
+12/11/20; 3:35; Creating roof command, hacking some code of Part workbench to create it
+
