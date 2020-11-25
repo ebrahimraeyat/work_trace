@@ -43,5 +43,6 @@ date; hours; comment
 20/11/20; 0:0; Nothing
 21/11/20; 0:0; Nothing
 22/11/20; 0:30; Removing extra line on roof shape that automatically created with poly skel algorithm
+23/11/20; 3:15; find a way to save face of roof in order with PropertyPartShape, Implementing recognizing valley and hip edges
 
 
