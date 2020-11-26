@@ -45,5 +45,6 @@ date; hours; comment
 22/11/20; 0:30; Removing extra line on roof shape that automatically created with poly skel algorithm
 23/11/20; 3:15; find a way to save face of roof in order with PropertyPartShape, Implementing recognizing valley and hip edges
 24/11/20; 2:50; finding how can we change the color of an edges shape, not succeed, so adding extra color lines
+25/11/20; 6:25; Recognizing another edge types (ridge, gutter), adding line type command, adding export to pdf function
 
 
