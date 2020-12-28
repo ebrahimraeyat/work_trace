@@ -13,7 +13,11 @@ def make_delta(entry):
     
     return datetime.timedelta(hours=int(h), minutes=int(m), seconds=0)
 
-df = pd.read_csv("developer_hours.csv", sep=";")
-df["time"] = df[" hours"].apply(make_delta)
-times = df["time"].sum()
-print(times.total_seconds() / 3600)
+if __name__ == '__main__':
+
+	import sys
+	filename = sys.argv[1]
+	df = pd.read_csv(filename, sep=";")
+	df["time"] = df[" hours"].apply(make_delta)
+	times = df["time"].sum()
+	print(times.total_seconds() / 3600)
