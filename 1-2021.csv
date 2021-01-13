@@ -10,4 +10,5 @@ date; hours; comment
 9/1/21; 4:45; work on creating multi level roof, thus try to creating negative slope for edges
 10/1/21; 5:25; creating primitive model of two level roof, add negative slop for roof
 11/1/21; 1:20; trying to create a two level roof with our tools, not succeed
+12/1/21; 1:45; remove bugs in creating gable, adding convert gable and negative edges to slope
 
